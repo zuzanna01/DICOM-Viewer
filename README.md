@@ -22,5 +22,6 @@ pip install -r environment.yml
 
 DICOM is a standard format used in medical imaging. Can store various types of medical imaging data such as X-rays, CT scans.
 In addition to the images themselves, DICOM also includes metadata and other patient-related information.
+
 Read more about [DICOM standard](https://www.dicomstandard.org).
 
