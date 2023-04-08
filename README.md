@@ -2,6 +2,10 @@
 
 This application allows you to open and view medical images stored in DICOM fromat file.
 
+<div>
+<img src="https://github.com/zuzanna01/DICOM-Viewer/blob/main/dicom_viewer.png" title="dicom_viewer" alt="dicom_viewer" width="1080" height="650"/>&nbsp
+<div>
+
 ## Features
 
 This application:
